@@ -1,0 +1,59 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/user/.m2/repository/com/mysql/mysql-connector-j/8.0.31/mysql-connector-j-8.0.31.jar;C:/Users/user/.m2/repository/com/google/protobuf/protobuf-java/3.19.4/protobuf-java-3.19.4.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'19'
+-sourcepath
+'C:/Users/user/Documents/NetBeansProjects/RestaurantApp/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/user/Documents/NetBeansProjects/RestaurantApp/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'SupermarketApp 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'SupermarketApp 1.0-SNAPSHOT API'
+al.ervini.superpos.restaurantapp
+'C:/Users/user/Documents/NetBeansProjects/RestaurantApp/src/main/java/al/ervini/superpos/restaurantapp/brand.java'
+'C:/Users/user/Documents/NetBeansProjects/RestaurantApp/src/main/java/al/ervini/superpos/restaurantapp/cashier.java'
+'C:/Users/user/Documents/NetBeansProjects/RestaurantApp/src/main/java/al/ervini/superpos/restaurantapp/category.java'
+'C:/Users/user/Documents/NetBeansProjects/RestaurantApp/src/main/java/al/ervini/superpos/restaurantapp/login.java'
+'C:/Users/user/Documents/NetBeansProjects/RestaurantApp/src/main/java/al/ervini/superpos/restaurantapp/pos.java'
+'C:/Users/user/Documents/NetBeansProjects/RestaurantApp/src/main/java/al/ervini/superpos/restaurantapp/print.java'
+'C:/Users/user/Documents/NetBeansProjects/RestaurantApp/src/main/java/al/ervini/superpos/restaurantapp/product.java'
+'C:/Users/user/Documents/NetBeansProjects/RestaurantApp/src/main/java/al/ervini/superpos/restaurantapp/SupermarketApp.java'
+C:\Users\user\.m2\repository\com\mysql\mysql-connector-j\8.0.31\mysql-connector-j-8.0.31.jar = 1672849411595
+C:\Users\user\.m2\repository\com\google\protobuf\protobuf-java\3.19.4\protobuf-java-3.19.4.jar = 1674855846613
+C:\Users\user\Documents\NetBeansProjects\RestaurantApp\src\main\java = 1674841417244
+C:\Users\user\Documents\NetBeansProjects\RestaurantApp\target\site\apidocs\allclasses-index.html = 1676196799171
+C:\Users\user\Documents\NetBeansProjects\RestaurantApp\target\site\apidocs\allpackages-index.html = 1676196799177
+C:\Users\user\Documents\NetBeansProjects\RestaurantApp\target\site\apidocs\copy.svg = 1676196799285
+C:\Users\user\Documents\NetBeansProjects\RestaurantApp\target\site\apidocs\element-list = 1676196798680
+C:\Users\user\Documents\NetBeansProjects\RestaurantApp\target\site\apidocs\help-doc.html = 1676196799258
+C:\Users\user\Documents\NetBeansProjects\RestaurantApp\target\site\apidocs\index-all.html = 1676196799236
+C:\Users\user\Documents\NetBeansProjects\RestaurantApp\target\site\apidocs\index.html = 1676196799246
+C:\Users\user\Documents\NetBeansProjects\RestaurantApp\target\site\apidocs\jquery-ui.overrides.css = 1676196799339
+C:\Users\user\Documents\NetBeansProjects\RestaurantApp\target\site\apidocs\member-search-index.js = 1676196799198
+C:\Users\user\Documents\NetBeansProjects\RestaurantApp\target\site\apidocs\module-search-index.js = 1676196799180
+C:\Users\user\Documents\NetBeansProjects\RestaurantApp\target\site\apidocs\overview-tree.html = 1676196799136
+C:\Users\user\Documents\NetBeansProjects\RestaurantApp\target\site\apidocs\package-search-index.js = 1676196799184
+C:\Users\user\Documents\NetBeansProjects\RestaurantApp\target\site\apidocs\script.js = 1676196799282
+C:\Users\user\Documents\NetBeansProjects\RestaurantApp\target\site\apidocs\search-page.js = 1676196799294
+C:\Users\user\Documents\NetBeansProjects\RestaurantApp\target\site\apidocs\search.html = 1676196799241
+C:\Users\user\Documents\NetBeansProjects\RestaurantApp\target\site\apidocs\search.js = 1676196799290
+C:\Users\user\Documents\NetBeansProjects\RestaurantApp\target\site\apidocs\serialized-form.html = 1676196798962
+C:\Users\user\Documents\NetBeansProjects\RestaurantApp\target\site\apidocs\stylesheet.css = 1676196799268
+C:\Users\user\Documents\NetBeansProjects\RestaurantApp\target\site\apidocs\tag-search-index.js = 1676196799202
+C:\Users\user\Documents\NetBeansProjects\RestaurantApp\target\site\apidocs\type-search-index.js = 1676196799195
